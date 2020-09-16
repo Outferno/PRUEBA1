@@ -1,0 +1,18 @@
+.lila {background-color: #957DAD;}
+.darklila {background-color: #73588d;}
+.rosa {background-color: #FEC8D8;}
+.carousel-item {
+  height: 90vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.contacto{
+    font-family: cursive;
+    font-size: 23px;
+    font-weight: bolder; 
+    color: black;
+}
